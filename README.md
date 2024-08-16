@@ -872,7 +872,11 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
-
+1 - 5
+2 - 4
+3 - 3
+4 - 2
+5 - 1
 cat fornested1.sh 
 ```bash
 #!/bin/bash
